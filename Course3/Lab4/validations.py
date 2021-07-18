@@ -26,5 +26,6 @@ print(validate_user("red_quinoa", 4))
 print(validate_user("red_quinoa", 4))
 print(validate_user("red_quinoa", 4))
 print(validate_user("red_quinoa", 4))
+print(validate_user("red_quinoa", 4))
 print(validate_user("_red_quinoa", 4))
 
